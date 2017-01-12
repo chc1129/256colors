@@ -2,9 +2,9 @@
 
 command sample
 ---
-perl ./show256colors.pl
-python ./show256colors.py
-ruby ./show256colors.rb
+perl ./show256colors.pl  
+python ./show256colors.py  
+ruby ./show256colors.rb  
 
 sample image
 ---
